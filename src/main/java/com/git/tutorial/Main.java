@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("first");
 		System.out.println("Second");
 		System.out.println("third");
+		System.out.println("fourth");
 	}
 
 }
